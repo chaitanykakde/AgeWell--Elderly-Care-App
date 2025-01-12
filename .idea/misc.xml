@@ -329,6 +329,15 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
 =======
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK" />
 >>>>>>> 108fb80d1ce46b207a7c3bf81d355d1cec675e4d
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+>>>>>>> 6246f1df26c8c4f34533d07ab51eaf31d7049a6a
 </project>
